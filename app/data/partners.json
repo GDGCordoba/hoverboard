@@ -1,28 +1,31 @@
 [
     {
-        "title": "General sponsor",
+        "title": "Diamante",
         "logos": [{
             "name": "Google",
             "url": "https://www.google.com.ua/intl/en/about/",
             "logoUrl": "../images/partners/google.svg"
         }]
     }, {
-        "title": "Platinum sponsor",
+        "title": "Oro",
         "logos": [{
-            "name": "N-IX",
-            "url": "http://n-ix.com/",
-            "logoUrl": "../images/partners/n-ix.png"
-        }]
-    }, {
-        "title": "General partner",
-        "logos": [{
+            "name": "Google",
+            "url": "https://www.google.com.ua/intl/en/about/",
+            "logoUrl": "../images/partners/google.svg"
+        },
+        {
             "name": "Lviv IT Cluster",
             "url": "http://itcluster.lviv.ua/",
             "logoUrl": "../images/partners/itcluster.png"
         }]
     }, {
-        "title": "Information partners",
+        "title": "Colaboradores",
         "logos": [{
+            "name": "Google",
+            "url": "https://www.google.com.ua/intl/en/about/",
+            "logoUrl": "../images/partners/google.svg"
+        },
+        {
             "name": "CoMMuna",
             "url": "http://communa.net.ua/en/",
             "logoUrl": "../images/partners/communa.png"
