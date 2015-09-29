@@ -63,31 +63,20 @@
             }
         </style>
         <div id="pricetable" class="container wrap relative layout vertical text-center">
-            <h4 class="heading">Tickets</h4>
+            <h4 class="heading">Entradas</h4>
             <div class="price-block-wrapper flex layout vertical-horizontal">
+ 
                 <div class="price-block flex text-center">
-                    <span class="ticket-name block">Student</span>
-                    <span class="price">400</span>
-                    <span class="currency">UAH</span>
-                    <span class="additional-info block">*Before October 23 or 100 tickets.
-                        <br/>Requires valid student ID</span>
+                    <span class="ticket-name block">Única entrada</span>
+                    <span class="price">0</span>
+                    <span class="currency style-scope tickets-block">Euros</span>
+                    <span class="additional-info block">*Antes del 6 de Noviembre o hasta 200 asistentes</span>
                 </div>
-                <div class="price-block flex text-center">
-                    <span class="ticket-name block">Early Bird</span>
-                    <span class="price">600</span>
-                    <span class="currency">UAH</span>
-                    <span class="additional-info block">*Before September 27 or 150 tickets</span>
-                </div>
-                <div class="price-block flex text-center">
-                    <span class="ticket-name block">Lazy Bird</span>
-                    <span class="price">800</span>
-                    <span class="currency">UAH</span>
-                    <span class="additional-info block">*Before October 23</span>
-                </div>
+  
             </div>
-            <span class="details">Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.</span>
+            <span class="details">Las entradas permiten el acceso a todas las secciones de la conferencia, coffee breaks, almuerzo y fiesta.</span>
             <div class="flex">
-                <paper-button class="white border-button open-dialog-button" on-tap="openTicketsDialog">Buy a ticket</paper-button>
+                <paper-button class="white border-button open-dialog-button" on-tap="openTicketsDialog">¡Consigue tú entrada!</paper-button>
             </div>
         </div>
         <paper-dialog id="ticketsDialog" entry-animation="scale-up-animation" exit-animation="fade-out-animation" modal>

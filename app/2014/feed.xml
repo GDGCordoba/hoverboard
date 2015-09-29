@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GDG DevFest Ukraine 2014</title>
+    <title>GDG DevFest Córdoba 2015</title>
     <description>October 24-25, Lviv, Ukraine. GDG DevFest - the biggest Google related event in Ukraine. 350+ attendees, 48 hours of pure Google content, 28+ speakers from Ukraine and beyond, 3 parallel tracks.</description>
     <link>http://devfest.gdg.org.ua/2014/</link>
     <atom:link href="http://devfest.gdg.org.ua/2014/feed.xml" rel="self" type="application/rss+xml" />

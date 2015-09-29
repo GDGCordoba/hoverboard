@@ -1,7 +1,7 @@
 <link rel="import" href="../blog-post/blog-post.html">
 
 <dom-module id="blog-block">
-    <template>
+    <!--<template>
         <style>
             :host {
                 display: block;
@@ -55,8 +55,8 @@
                 }
             }
         </style>
-        <iron-ajax auto url="[[source]]" handle-as="json" on-response="postsLoaded"></iron-ajax>
-        <div id="posts" class="container flex layout horizontal center-justified wrap">
+       <iron-ajax auto url="[[source]]" handle-as="json" on-response="postsLoaded"></iron-ajax>
+      <div id="posts" class="container flex layout horizontal center-justified wrap">
             <template is="dom-repeat" items="[[posts]]" as="post">
                 <div class="card-wrapper layout horizontal">
                     <paper-material class="layout vertical">
@@ -70,7 +70,7 @@
                             <marked-element markdown="[[post.brief]]"></marked-element>
                         </div>
                         <div class="card-actions">
-                            <paper-button on-tap="readMore">Read more</paper-button>
+                            <paper-button on-tap="readMore">Leer más</paper-button>
                         </div>
                     </paper-material>
                 </div>
@@ -78,8 +78,8 @@
         </div>
         <div id="postCon" class="post-wrapper container relative">
             <blog-post id="post" class="post flex" meta="{{selectedPost}}" opened={{opened}}></blog-post>
-        </div>
-    </template>
+        </div> 
+    </template>-->
 </dom-module>
 
 <script>
