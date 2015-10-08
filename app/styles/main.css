@@ -32,14 +32,14 @@ a paper-button {
 }
 
 paper-button.colorful {
-    color: #00BCD4;
+    color: #40c4ff;
 }
 paper-button.white {
     color: #fff;
 }
 
 paper-button[raised].colorful {
-    background: #00BCD4;
+    background: #40c4ff;
     color: #fff;
 }
 
@@ -95,6 +95,10 @@ paper-button[raised].colorful {
 
 .img-circle {
     border-radius: 50%;
+}
+
+.cordoba-img {
+    background-size: 80% !important;
 }
 
 .container {
