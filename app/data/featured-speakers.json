@@ -1,31 +1,31 @@
 [{
     "id": 1,
-    "name": "Said Tahsin Dane",
-    "company": "Startup Digest, Turkey",
-    "photoUrl": "../../images/people/said_tahsine_dane.jpg"
+    "name": "Jorge Juan Barroso Carmona",
+    "company": "Karumi, España",
+    "photoUrl": "../../images/people/jorge_barroso.jpg"
 }, {
     "id": 2,
-    "name": "Mateusz Herych",
-    "company": "Base CRM, Poland",
-    "photoUrl": "../../images/people/mateus_herych.jpg"
+    "name": "Carlos Azaustre",
+    "company": "Chefly, Poland",
+    "photoUrl": "../../images/people/carlos_azaustre.jpg"
 }, {
     "id": 3,
-    "name": "Michał Tajchert",
-    "company": "12Hours.io, Poland",
-    "photoUrl": "../../images/people/michal_tajchert.jpg"
+    "name": "Jorge Castillo",
+    "company": "Jobandtalent, España",
+    "photoUrl": "../../images/people/jorge_castillo.png"
 }, {
     "id": 4,
-    "name": "Yehor Lvivski",
-    "company": "Spatialkey, Ukraine",
-    "photoUrl": "../../images/people/yehor_lvivski.jpg"
+    "name": "Angel Sanchez",
+    "company": "SocialBro, España",
+    "photoUrl": "../../images/people/angel_sanchez.jpg"
 }, {
     "id": 5,
-    "name": "Valentyn Shybanov",
-    "company": "Twinfield, Ukraine",
-    "photoUrl": "../../images/people/valentyn_shybanov.jpg"
+    "name": "Fede Fernández",
+    "company": "47 Degrees, España",
+    "photoUrl": "../../images/people/fede_fernandez.jpg"
 }, {
     "id": 6,
-    "name": "Mandy Waite",
-    "company": "Google, UK",
-    "photoUrl": "../../images/people/mandy_waite.jpg"
+    "name": "Fernando Franco Giráldez",
+    "company": "Telefónica I+D, España",
+    "photoUrl": "../../images/people/fernando_franco.png"
 }]
