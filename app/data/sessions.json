@@ -32,10 +32,7 @@
   {
     "id": 104,
     "title": "Android Graphics API: Aprendiendo con AndroidFillableLoaders",
-    "description": "El manejo de la API de android.graphics a bajo nivel no está muy extendido en la comunidad. Mi intención es la de profundizar en este aspecto empleando como ejemplo práctico mi librería Open Source AndroidFillableLoaders (https://github.com/JorgeCastilloPrz/AndroidFillableLoaders)
-Generalmente suelo contribuir bastante a la comunidad Open Source (se puede comprobar en mi perfil de GitHub). 
-Soy Android developer desde hace unos 5 añitos y actualmente formo parte del equipo de desarrolladores de Job and Talent. 
-Tengo los c4p también echados para los otros 2 eventos andaluces de ese finde.",
+    "description": "El manejo de la API de android.graphics a bajo nivel no está muy extendido en la comunidad. Mi intención es la de profundizar en este aspecto empleando como ejemplo práctico mi librería Open Source AndroidFillableLoaders (https://github.com/JorgeCastilloPrz/AndroidFillableLoaders) <br> Generalmente suelo contribuir bastante a la comunidad Open Source (se puede comprobar en mi perfil de GitHub). <br> Soy Android developer desde hace unos 5 añitos y actualmente formo parte del equipo de desarrolladores de Job and Talent. <br> Tengo los c4p también echados para los otros 2 eventos andaluces de ese finde.",
     "speakers": [4],
     "language": "Español",
     "complexity": "Avanzado",
@@ -45,10 +42,7 @@ Tengo los c4p también echados para los otros 2 eventos andaluces de ese finde."
   {
     "id": 105,
     "title": "Android Functional Views: A functional programming approach to transform, compose and slay Android UI Views",
-    "description": "La programación funcional y reactiva se está abriendo hueco dentro de Android. Alternativas como RX nos proporcionan algunas características de este paradigma aunque no nos permite aprovechar todo el potencial de la programación funcional
-En esta charla descubriremos una nueva manera de gestionar nuestra UI mediante la Programación Funcional. Una aproximación para transformar, componer y tratar nuestras vistas en Android de una manera elegante.
-Fede y Javi son Ingenieros de Software en Scala en 47 Degrees con una gran experiencia en el desarrollo de Aplicaciones Android
-",
+    "description": "La programación funcional y reactiva se está abriendo hueco dentro de Android. Alternativas como RX nos proporcionan algunas características de este paradigma aunque no nos permite aprovechar todo el potencial de la programación funcional. <br> En esta charla descubriremos una nueva manera de gestionar nuestra UI mediante la Programación Funcional. Una aproximación para transformar, componer y tratar nuestras vistas en Android de una manera elegante. <br> Fede y Javi son Ingenieros de Software en Scala en 47 Degrees con una gran experiencia en el desarrollo de Aplicaciones Android",
     "speakers": [5],
     "language": "Español",
     "complexity": "Intermedio",
@@ -57,10 +51,8 @@ Fede y Javi son Ingenieros de Software en Scala en 47 Degrees con una gran exper
   },
   {
     "id": 106,
-    "title": "Reactive your Android",
-    "description": "¿Quieres utilizar Rx en tu proyecto Android y no sabes como? En esta charla repasaremos los elementos más comunes cuando se trabaja con Rx y como están relacionados entre ellos con un enfoque práctico.
-
-Veremos casos de usos prácticos de algunos operadores más utilizados y como podemos evitar las AsyncTask y Bus de Eventos agilizando el desarrollo.",
+    "title": "Android Functional Views: A functional programming approach to transform, compose and slay Android UI Views",
+    "description": "La programación funcional y reactiva se está abriendo hueco dentro de Android. Alternativas como RX nos proporcionan algunas características de este paradigma aunque no nos permite aprovechar todo el potencial de la programación funcional. <br> En esta charla descubriremos una nueva manera de gestionar nuestra UI mediante la Programación Funcional. Una aproximación para transformar, componer y tratar nuestras vistas en Android de una manera elegante. <br> Fede y Javi son Ingenieros de Software en Scala en 47 Degrees con una gran experiencia en el desarrollo de Aplicaciones Android",
     "speakers": [6],
     "language": "Español",
     "complexity": "Intermedio",
@@ -69,38 +61,28 @@ Veremos casos de usos prácticos de algunos operadores más utilizados y como po
   },
   {
     "id": 107,
-    "title": "UX y Big Data",
-    "description": "Cómo el Big Data sirve para mejorar productos utilizando métodos de UX en el diseño de éstos.",
+    "title": "Reactive your Android",
+    "description": "¿Quieres utilizar Rx en tu proyecto Android y no sabes como? En esta charla repasaremos los elementos más comunes cuando se trabaja con Rx y como están relacionados entre ellos con un enfoque práctico. <br> Veremos casos de usos prácticos de algunos operadores más utilizados y como podemos evitar las AsyncTask y Bus de Eventos agilizando el desarrollo.",
     "speakers": [7],
     "language": "Español",
-    "complexity": "Avanzado",
+    "complexity": "Intermedio",
     "presentation": "",
     "video": ""
   },
   {
     "id": 108,
-    "title": "Scala.js : Client Side Strongly Typed Functional Programming",
-    "description": "En esta charla quiero mostrar el gran potencial que nos provee Scala.js, un compilador de Scala a Javascript. Trayendo toda la magia de la programación funcional al lado del cliente como transparencia referencial, evaluación perezosa, alta abstracción, etc.",
+    "title": "UX y Big Data",
+    "description": "Cómo el Big Data sirve para mejorar productos utilizando métodos de UX en el diseño de éstos.",
     "speakers": [8],
-    "language": "Español",
-    "complexity": "Intermedio",
-    "presentation": "",
-    "video": ""
-  },
-  {
-    "id": 109,
-    "title": "Dependency Injection on Android",
-    "description": "La inyección de dependencias es una de las herramientas más potentes con la que un desarrollador puede contar. Sin embargo, en Android su uso no es del todo común. Durante esta charla explicaremos qué es la inyección de dependencias, como usarla en Android y qué podemos hacer con este patrón para facilitarnos la vida.",
-    "speakers": [9],
     "language": "Español",
     "complexity": "Avanzado",
     "presentation": "",
     "video": ""
   },
   {
-    "id": 110,
-    "title": "Limpiando espero la arquitectura que yo quiero",
-    "description": "Paso a paso explico como estructurar nuestros proyectos para ir solucionando y separando problemas para ver finalmente como la foto general de lo que hemos montado coincide con los principios de Clean Architecture y como esto nos ayuda a construir un software más solido, extensible y refactorizable.",
+    "id": 109,
+    "title": "Scala.js : Client Side Strongly Typed Functional Programming",
+    "description": "En esta charla quiero mostrar el gran potencial que nos provee Scala.js, un compilador de Scala a Javascript. Trayendo toda la magia de la programación funcional al lado del cliente como transparencia referencial, evaluación perezosa, alta abstracción, etc.",
     "speakers": [9],
     "language": "Español",
     "complexity": "Intermedio",
@@ -108,18 +90,20 @@ Veremos casos de usos prácticos de algunos operadores más utilizados y como po
     "video": ""
   },
   {
-    "id": 111,
-    "title": "Desarrollo seguro de aplicaciones nativas C++ con NDK para Android",
-    "description": "En esta charla veremos:
-
-* Introducción al NDK: qué es y cuál es su estado
-* Eclipse vs Android Studio para aplicaciones con parte nativa
-* Introducción al desarrollo de aplicaciones con parte nativa C++ para Android
-* Consejos para el desarrollo seguro de aplicaciones con NDK
-* Ofuscación del código nativo
-* Conclusiones
-",
+    "id": 110,
+    "title": "Dependency Injection on Android",
+    "description": "La inyección de dependencias es una de las herramientas más potentes con la que un desarrollador puede contar. Sin embargo, en Android su uso no es del todo común. Durante esta charla explicaremos qué es la inyección de dependencias, como usarla en Android y qué podemos hacer con este patrón para facilitarnos la vida.",
     "speakers": [10],
+    "language": "Español",
+    "complexity": "Avanzado",
+    "presentation": "",
+    "video": ""
+  },
+  {
+    "id": 111,
+    "title": "Limpiando espero la arquitectura que yo quiero",
+    "description": "Paso a paso explico como estructurar nuestros proyectos para ir solucionando y separando problemas para ver finalmente como la foto general de lo que hemos montado coincide con los principios de Clean Architecture y como esto nos ayuda a construir un software más solido, extensible y refactorizable.",
+    "speakers": [11],
     "language": "Español",
     "complexity": "Intermedio",
     "presentation": "",
@@ -127,22 +111,19 @@ Veremos casos de usos prácticos de algunos operadores más utilizados y como po
   },
   {
     "id": 112,
+    "title": "Desarrollo seguro de aplicaciones nativas C++ con NDK para Android",
+    "description": "En esta charla veremos: <br> &#42; Introducción al NDK: qué es y cuál es su estado <br> &#42; Eclipse vs Android Studio para aplicaciones con parte nativa <br> &#42; Introducción al desarrollo de aplicaciones con parte nativa C++ para Android <br> &#42; Consejos para el desarrollo seguro de aplicaciones con NDK <br> &#42; Ofuscación del código nativo <br> &#42; Conclusiones",
+    "speakers": [12],
+    "language": "Español",
+    "complexity": "Intermedio",
+    "presentation": "",
+    "video": ""
+  },
+  {
+    "id": 113,
     "title": "Effective Cloud Network Layer: APIs Lovers and Apps",
-    "description": "Esta charla está motivada en mi trabajo realizado en idealista creado durante más de 7 años la parte API REST y el desarrollo de la app Android.
-
-Recientemente en forma introductoria en el Mobile Day organizado por el GDG de Vigo presente una charla sobre la problemática de las apps que se conectan a internet
-https://speakerdeck.com/durbon/el-pegamento-de-las-apps-con-internet
-
-Previamente presenté la API de idealista y su Mobile Backend en Ironhack
-https://speakerdeck.com/durbon/mobile-backed-app-idealista
-
-Para el desarrollo de una app experimental, Cicleta App disponible en el Google Play utilice Google Cloud. Expondré algunos  puntos interesantes y parte de su implementación.
-https://play.google.com/store/apps/details?id=com.durbon.cicleta
-
-A parte de las charlas, coordino Genbeta Dev. Aquí podéis encontrar algunos de mis post 
-http://www.genbetadev.com/autor/durbon
-",
-    "speakers": [11],
+    "description": "Esta charla está motivada en mi trabajo realizado en idealista creado durante más de 7 años la parte API REST y el desarrollo de la app Android. <br><br> Recientemente en forma introductoria en el Mobile Day organizado por el GDG de Vigo presente una charla sobre la problemática de las apps que se conectan a internet <br> https://speakerdeck.com/durbon/el-pegamento-de-las-apps-con-internet <br><br> Previamente presenté la API de idealista y su Mobile Backend en Ironhack <br> https://speakerdeck.com/durbon/mobile-backed-app-idealista <br><br> Para el desarrollo de una app experimental, Cicleta App disponible en el Google Play utilice Google Cloud. Expondré algunos  puntos interesantes y parte de su implementación. <br> https://play.google.com/store/apps/details?id=com.durbon.cicleta <br><br> A parte de las charlas, coordino Genbeta Dev. Aquí podéis encontrar algunos de mis post <br> http://www.genbetadev.com/autor/durbon",
+    "speakers": [13],
     "language": "Español",
     "complexity": "Intermedio",
     "presentation": "",
