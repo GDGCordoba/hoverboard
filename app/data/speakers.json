@@ -9,10 +9,7 @@
     "tags": ["Android"],
     "socials": [{
         "name": "Twitter",
-        "link": ""
-    }, {
-        "name": "GitHub",
-        "link": ""
+        "link": "https://twitter.com/flipper83"
     }]
 }, {
     "id": 2,
@@ -25,7 +22,7 @@
     "tags": ["Web", "AngularJS"],
     "socials": [ {
         "name": "Twitter",
-        "link": ""
+        "link": "https://twitter.com/carlosazaustre"
     }]
 }, {
     "id": 3,
@@ -37,8 +34,7 @@
     "bio": "Organizadora del GDG de Cáceres, y miembro de Tech&Ladies.",
     "tags": ["Android"],
     "socials": [{
-        "name": "Twitter",
-        "link": "https://twitter.com/dmytrodanylyk"
+        
     }]
 }, {
     "id": 4,
@@ -51,7 +47,7 @@
     "tags": ["Android"],
     "socials": [ {
         "name": "Twitter",
-        "link": ""
+        "link": "https://twitter.com/jorgecastillopr"
     }]
 }, {
     "id": 5,
@@ -64,7 +60,7 @@
     "tags": ["Android", "Functional Programming"],
     "socials": [{
         "name": "Twitter",
-        "link": ""
+        "link": "https://twitter.com/fede_fdz"
     }]
 }, {
     "id": 6,
@@ -77,7 +73,7 @@
     "tags": ["Android", "Functional Programming"],
     "socials": [{
         "name": "Twitter",
-        "link": ""
+        "link": "https://twitter.com/javielinux"
     }]
 }, {
     "id": 7,
@@ -89,8 +85,7 @@
     "bio": "Apasionado de las nuevas tecnologías y gadgets. Descubrió Android en 2009 y desde entonces se ha centrado en como desarrollar aplicaciones más solidas utilizando TDD, buenas prácticas y CLEAN Architecture en esa plataforma. Actualmente trabajo en Telefonica I+D como Senior Android Developer.",
     "tags": ["Androic"],
     "socials": [{
-        "name": "Twitter",
-        "link": ""
+        
     }]
 }, {
     "id": 8,
@@ -103,7 +98,7 @@
     "tags": ["Cloud"],
     "socials": [{
         "name": "Twitter",
-        "link": ""
+        "link": "https://twitter.com/angelcreative"
     }]
 }, {
     "id": 9,
@@ -116,7 +111,7 @@
     "tags": ["Web"],
     "socials": [{
         "name": "Twitter",
-        "link": "https://twitter.com/tekgrrl"
+        "link": "https://twitter.com/rafaparadela"
     }]
 }, {
     "id": 10,
@@ -129,7 +124,7 @@
     "tags": ["Android"],
     "socials": [{
         "name": "Twitter",
-        "link": ""
+        "link": "https://twitter.com/pedro_g_s"
     }]
 }, {
     "id": 11,
@@ -142,7 +137,7 @@
     "tags": ["Android"],
     "socials": [{
         "name": "Twitter",
-        "link": "https://twitter.com/ph0b"
+        "link": "https://twitter.com/JMPergar"
     }]
 }, {
     "id": 12,
@@ -155,7 +150,7 @@
     "tags": ["Android"],
     "socials": [{
         "name": "Twitter",
-        "link": ""
+        "link": "https://twitter.com/neonigmacdb"
     }]
 }, {
     "id": 13,
@@ -168,6 +163,6 @@
     "tags": ["Cloud"],
     "socials": [{
         "name": "Twitter",
-        "link": ""
+        "link": "https://twitter.com/durbon"
     }]
 }]
