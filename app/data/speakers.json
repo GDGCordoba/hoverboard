@@ -19,7 +19,7 @@
     "country": "España",
     "photoUrl": "../../images/people/carlos_azaustre.jpg",
     "bio": "Desarrollador web full-stack. CTO y CoFundador en Chefly. Ingeniero en Telemática por la Universidad Carlos III de Madrid y con estudios de Máster en Tecnologías Web por la UCLM. Autor de varios libros sobre tecnologías de la web, así como del blog carlosazaustre.es dónde publica artículos y tutoriales sobre programación.",
-    "tags": ["Web", "AngularJS"],
+    "tags": ["Web", "AngularJS", "ECMAScript6"],
     "socials": [ {
         "name": "Twitter",
         "link": "https://twitter.com/carlosazaustre"
@@ -83,7 +83,7 @@
     "country": "España",
     "photoUrl": "../../images/people/fernando_franco.png",
     "bio": "Apasionado de las nuevas tecnologías y gadgets. Descubrió Android en 2009 y desde entonces se ha centrado en como desarrollar aplicaciones más solidas utilizando TDD, buenas prácticas y CLEAN Architecture en esa plataforma. Actualmente trabajo en Telefonica I+D como Senior Android Developer.",
-    "tags": ["Androic"],
+    "tags": ["Android", "Rx"],
     "socials": [{
         
     }]
@@ -95,7 +95,7 @@
     "country": "España",
     "photoUrl": "../../images/people/angel_sanchez.jpg",
     "bio": "Angel Sánchez es Licenciado en Ciencias de la Comunicación Social, Especialista en Producción en Medios de Comunicación, Diseñador Gráfico Publiciario y Diseñador en Medios Digitales. Trabaja como Diseñador de Producto en SocialBro. Angel es seguidor de los métodos Lean UX, dirige un blog sobre temas de UX en español y eventualmente ofrece charlas y cursos sobre diseño de experiencia de usuario.",
-    "tags": ["Cloud"],
+    "tags": ["Cloud", "BigData"],
     "socials": [{
         "name": "Twitter",
         "link": "https://twitter.com/angelcreative"
@@ -108,7 +108,7 @@
     "country": "España",
     "photoUrl": "../../images/people/rafa_paradela.jpg",
     "bio": "Ingeniero de Software en Scala en 47 Degrees. Aunque tiene mucha experiencia programando tanto en el lado del servidor como en el cliente, es un apasionado de bonitas interfaces con increíbles experiencias de usuario. ",
-    "tags": ["Web"],
+    "tags": ["Web", "ScalaJS"],
     "socials": [{
         "name": "Twitter",
         "link": "https://twitter.com/rafaparadela"
@@ -121,7 +121,7 @@
     "country": "España",
     "photoUrl": "../../images/people/pedro_gomez.jpeg",
     "bio": "I'm a young Android developer really focused in new technologies, clean code and testing. Right now I'm working as Mobile Software Engineer at Tuenti as part of the Messaging Team. I try to improve my knowledge about other technologies and languages everyday with a really interesting objective, write the best possible code and the most awesome application.",
-    "tags": ["Android"],
+    "tags": ["Android", "Dependency Injection"],
     "socials": [{
         "name": "Twitter",
         "link": "https://twitter.com/pedro_g_s"
@@ -134,7 +134,7 @@
     "country": "España",
     "photoUrl": "../../images/people/jose_pereira.jpg",
     "bio": "Android Tech Lead at jobandtalent, GDG Madrid Organizer and Founder of AndroCode. Formerly at Redbooth and GDG Barcelona. Beer Lover and Andalú. And Speaker!",
-    "tags": ["Android"],
+    "tags": ["Android", "Clean Architecture"],
     "socials": [{
         "name": "Twitter",
         "link": "https://twitter.com/JMPergar"
@@ -147,7 +147,7 @@
     "country": "España",
     "photoUrl": "../../images/people/nacho_alvarez.png",
     "bio": "Ingeniero en Informática que desde hace varios años desarrolla profesionalmente su pasión por el software libre combinando tecnologías Web, de escritorio y móviles. Actualmente en el área de Innovación de Redsys investigando nuevas tecnologías a aplicar en el mundo de los medios de pago.",
-    "tags": ["Android"],
+    "tags": ["Android", "NDK", "C++"],
     "socials": [{
         "name": "Twitter",
         "link": "https://twitter.com/neonigmacdb"
@@ -160,7 +160,7 @@
     "country": "España",
     "photoUrl": "../../images/people/jose_rodriguez.png",
     "bio": "Apasionado por la tecnología trabaja en Madrid como Android Senior Engineer en jobandtalent. Previamente ha trabajado en idealista participando en el desarrollo de la API REST, las apps móviles y en el labs de la compañía. Compagina su labor de desarrollador con la de editor en diferentes publicaciones en internet, coordina el blog de Genbeta Dev y colabora en Xataka Android.",
-    "tags": ["Cloud"],
+    "tags": ["Cloud", "API REST"],
     "socials": [{
         "name": "Twitter",
         "link": "https://twitter.com/durbon"
