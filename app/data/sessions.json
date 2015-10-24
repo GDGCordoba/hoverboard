@@ -111,19 +111,9 @@
   },
   {
     "id": 112,
-    "title": "Desarrollo seguro de aplicaciones nativas C++ con NDK para Android",
-    "description": "En esta charla veremos: <br> &#42; Introducción al NDK: qué es y cuál es su estado <br> &#42; Eclipse vs Android Studio para aplicaciones con parte nativa <br> &#42; Introducción al desarrollo de aplicaciones con parte nativa C++ para Android <br> &#42; Consejos para el desarrollo seguro de aplicaciones con NDK <br> &#42; Ofuscación del código nativo <br> &#42; Conclusiones",
-    "speakers": [12],
-    "language": "Español",
-    "complexity": "Intermedio",
-    "presentation": "",
-    "video": ""
-  },
-  {
-    "id": 113,
     "title": "Effective Cloud Network Layer: APIs Lovers and Apps",
     "description": "Esta charla está motivada en mi trabajo realizado en idealista creado durante más de 7 años la parte API REST y el desarrollo de la app Android. <br><br> Recientemente en forma introductoria en el Mobile Day organizado por el GDG de Vigo presente una charla sobre la problemática de las apps que se conectan a internet <br> https://speakerdeck.com/durbon/el-pegamento-de-las-apps-con-internet <br><br> Previamente presenté la API de idealista y su Mobile Backend en Ironhack <br> https://speakerdeck.com/durbon/mobile-backed-app-idealista <br><br> Para el desarrollo de una app experimental, Cicleta App disponible en el Google Play utilice Google Cloud. Expondré algunos  puntos interesantes y parte de su implementación. <br> https://play.google.com/store/apps/details?id=com.durbon.cicleta <br><br> A parte de las charlas, coordino Genbeta Dev. Aquí podéis encontrar algunos de mis post <br> http://www.genbetadev.com/autor/durbon",
-    "speakers": [13],
+    "speakers": [12],
     "language": "Español",
     "complexity": "Intermedio",
     "presentation": "",

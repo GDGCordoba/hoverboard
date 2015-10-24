@@ -34,7 +34,8 @@
     "bio": "Organizadora del GDG de Cáceres, y miembro de Tech&Ladies.",
     "tags": ["Android"],
     "socials": [{
-        
+        "name": "Twitter",
+        "link": "https://twitter.com/Laritaa21"
     }]
 }, {
     "id": 4,
@@ -141,19 +142,6 @@
     }]
 }, {
     "id": 12,
-    "name": "Nacho Álvarez",
-    "title": "Técnico del área de Innovación",
-    "company": "Redsys",
-    "country": "España",
-    "photoUrl": "../../images/people/nacho_alvarez.png",
-    "bio": "Ingeniero en Informática que desde hace varios años desarrolla profesionalmente su pasión por el software libre combinando tecnologías Web, de escritorio y móviles. Actualmente en el área de Innovación de Redsys investigando nuevas tecnologías a aplicar en el mundo de los medios de pago.",
-    "tags": ["Android", "NDK", "C++"],
-    "socials": [{
-        "name": "Twitter",
-        "link": "https://twitter.com/neonigmacdb"
-    }]
-}, {
-    "id": 13,
     "name": "Jose Maria Rodriguez Hurtado",
     "title": "Android Senior Developer / Coordinador en Genbeta Dev",
     "company": "Jobandtalent",
